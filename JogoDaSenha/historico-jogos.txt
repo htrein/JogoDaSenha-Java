@@ -1,0 +1,17 @@
+[P, T, Y, O, T],1,Vitória
+[R, G, R, T, O],1,Vitória
+[O, T, Y, P, T],1,Vitória
+[O, Y, G, P, G],3,Vitória
+[P, R, O, Y, G, T],1,Derrota
+[P, T, Y, G, R],4,Vitória
+[R, O, Y, P, G],4,Vitória
+[Y, R, T, G, O],2,Vitória
+[P, O, Y, G, T],1,Vitória
+[T, Y, G, P, R],5,Derrota
+[R, O, T, G, Y],5,Derrota
+[P, O, T, R, G],5,Derrota
+[P, Y, G, T, R],5,Derrota
+[T, O, P, Y, G],5,Derrota
+[G, T, R, P, O],5,Vitória
+[Y, P, R, G, O, T],1,Vitória
+[R, T, O, R, Y],5,Vitória
